@@ -6,11 +6,11 @@ are a quick list of features:
 * Create Table
 * Drop Table
 * Insert 
-** May be called several ways, as a tuple of just values or a 
+  * May be called several ways, as a tuple of just values or a 
 dictionary.
 * Get record by "id"
 * Search record(s)
-** Search criteria as array of 3-tuple (column, comparator, value)
+  * Search criteria as array of 3-tuple (column, comparator, value)
 * Update record(s) - passing dictionary of update values and 
 a criteria 3-tuple as defined in search
 * Delete Record(s) criteria passed as array of 3-tuple like search.
